@@ -1,5 +1,4 @@
-# example-ptc-issues
-Example repository using issues for PTCs. 
+# Example repository using issues for PTCs. 
 
 - Each PTC is represented by an issue that is assigned a PTC label. 
 - The current state of the PTCs are visible in the main issue list and the PSIP project. 
