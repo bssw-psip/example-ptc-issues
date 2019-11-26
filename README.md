@@ -1,4 +1,4 @@
-# example-psip-issues
+# example-ptc-issues
 Example repository using issues for PTCs. 
 
 - Each PTC is represented by an issue that is assigned a PTC label. 
